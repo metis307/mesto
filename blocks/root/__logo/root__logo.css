@@ -1,3 +1,6 @@
+.root__logo {
+	}
+
 @media (max-width: 400px) {
 	.root__logo {
 		max-width: 104px;
